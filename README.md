@@ -10,7 +10,7 @@ A simple Sublime Text plugin for Python isort formatter
 
 ## operation
 
-`simple-black` will automatically black files on save.
+`simple-isort` will automatically black files on save.
 
 ## configuration
 
