@@ -10,8 +10,9 @@ A simple Sublime Text plugin for Python isort formatter
 
 ## operation
 
-`simple-isort` will automatically black files on save.
+`simple-isort` will automatically isort files on save.
+
 
 ## configuration
 
-The package users your install of isort so will follow its standard confiration found [here](https://pycqa.github.io/isort/docs/configuration/config_files.html)
+The package uses your installation of isort for its configuration so will follow the same standards laid out  [here](https://pycqa.github.io/isort/docs/configuration/config_files.html)
